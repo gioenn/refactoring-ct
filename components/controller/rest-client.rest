@@ -1,0 +1,9 @@
+### Get the status
+GET http://{{host}}:{{port}}/
+Accept: application/json
+
+### Get the logs
+GET http://{{host}}:{{port}}/logs
+Accept: application/json
+
+###
